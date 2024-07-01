@@ -1,0 +1,4 @@
+module Main
+typeinfo HMI_FINALApp.qmltypes
+prefer :/qt/qml/Main/
+

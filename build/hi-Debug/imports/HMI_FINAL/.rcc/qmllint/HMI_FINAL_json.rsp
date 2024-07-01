@@ -1,0 +1,17 @@
+--bare
+-I
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml
+-I
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/imports/HMI_FINAL/.qt/rcc/qmake_HMI_FINAL.qrc
+--resource
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/imports/HMI_FINAL/.qt/rcc/HMI_FINAL_raw_qml_0.qrc
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/Constants.qml
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/DirectoryFontLoader.qml
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/EventListModel.qml
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/EventListSimulator.qml
+--json
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/HMI_FINAL_qmllint.json

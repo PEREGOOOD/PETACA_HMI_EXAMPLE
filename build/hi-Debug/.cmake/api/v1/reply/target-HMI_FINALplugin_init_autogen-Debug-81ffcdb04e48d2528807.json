@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/HMI_FINAL/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "HMI_FINALplugin_init_autogen_timestamp_deps::@fca187046609992cf288"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "HMI_FINALplugin_init_autogen::@fca187046609992cf288",
+	"isGeneratorProvided" : true,
+	"name" : "HMI_FINALplugin_init_autogen",
+	"paths" : 
+	{
+		"build" : "imports/HMI_FINAL",
+		"source" : "imports/HMI_FINAL"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/hi-Debug/imports/HMI_FINAL/CMakeFiles/HMI_FINALplugin_init_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/hi-Debug/imports/HMI_FINAL/CMakeFiles/HMI_FINALplugin_init_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/hi-Debug/imports/HMI_FINAL/HMI_FINALplugin_init_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

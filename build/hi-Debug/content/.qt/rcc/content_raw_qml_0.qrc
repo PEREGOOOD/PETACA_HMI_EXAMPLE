@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/App.qml</file>
+    <file alias="fonts/fonts.txt">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/fonts.txt</file>
+    <file alias="fonts/tierra.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/tierra.png</file>
+    <file alias="fonts/informacion.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/informacion.png</file>
+    <file alias="fonts/casa.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/casa.png</file>
+    <file alias="fonts/herramientas-manuales.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/herramientas-manuales.png</file>
+    <file alias="fonts/casco.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/casco.png</file>
+    <file alias="fonts/tornillodos.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/tornillodos.png</file>
+    <file alias="fonts/izquierda.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/izquierda.png</file>
+    <file alias="fonts/taladro.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/taladro.png</file>
+    <file alias="fonts/tornillo.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/tornillo.png</file>
+    <file alias="fonts/tuerca.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/tuerca.png</file>
+    <file alias="fonts/madera.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/madera.png</file>
+    <file alias="fonts/acero.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/acero.png</file>
+    <file alias="fonts/concreto.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/concreto.png</file>
+    <file alias="fonts/steel.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/steel.png</file>
+    <file alias="fonts/broca.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/broca.png</file>
+    <file alias="fonts/brocasteel.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/brocasteel.png</file>
+    <file alias="fonts/brocaconcrete.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/brocaconcrete.png</file>
+    <file alias="fonts/brocaaluminium.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/brocaaluminium.png</file>
+    <file alias="fonts/tornilloselec.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/tornilloselec.png</file>
+    <file alias="fonts/perno-de-tuerca.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/perno-de-tuerca.png</file>
+    <file alias="fonts/animatedarrow.gif">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/animatedarrow.gif</file>
+    <file alias="fonts/caja.gif">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/caja.gif</file>
+    <file alias="fonts/taketools.gif">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/taketools.gif</file>
+    <file alias="fonts/loader.gif">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/loader.gif</file>
+    <file alias="fonts/safety.gif">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/safety.gif</file>
+    <file alias="fonts/spain.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/spain.png</file>
+    <file alias="fonts/english.png">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/content/fonts/english.png</file>
+  </qresource>
+</RCC>
+

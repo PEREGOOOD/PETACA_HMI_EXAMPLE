@@ -1,0 +1,11 @@
+module HMI_FINAL
+linktarget HMI_FINALplugin
+optional plugin HMI_FINALplugin
+classname HMI_FINALPlugin
+typeinfo HMI_FINAL.qmltypes
+prefer :/qt/qml/HMI_FINAL/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

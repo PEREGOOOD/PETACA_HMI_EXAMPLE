@@ -1,0 +1,12 @@
+-I
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml
+-I
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/_deps/ds-build/src/imports/components/.qt/rcc/qmake_QtQuick_Studio_Components.qrc
+--resource
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/_deps/ds-build/src/imports/components/.qt/rcc/QuickStudioComponents_raw_qml_0.qrc
+--module
+QtQuick.Studio.Components

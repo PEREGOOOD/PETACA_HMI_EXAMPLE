@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL
+-cmake-output
+-output-file
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/.qt/qml_imports/HMI_FINALApp_build.cmake
+-importPath
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml/Main
+-importPath
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml
+-importPath
+C:/Qt/6.7.1/mingw_64/./qml
+-qrcFiles
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/.qt/rcc/configuration.qrc
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/.qt/rcc/qmake_Main.qrc
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/.qt/rcc/HMI_FINALApp_raw_qml_0.qrc

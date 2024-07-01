@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HMI_FINAL">
+    <file alias="qmldir">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml/HMI_FINAL/qmldir</file>
+  </qresource>
+</RCC>
+

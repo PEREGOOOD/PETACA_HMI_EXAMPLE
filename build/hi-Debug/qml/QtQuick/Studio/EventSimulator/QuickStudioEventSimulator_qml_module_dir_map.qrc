@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt-project.org/imports/QtQuick/Studio/EventSimulator">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/qml/QtQuick/Studio/EventSimulator</file>
+
+  </qresource>
+</RCC>

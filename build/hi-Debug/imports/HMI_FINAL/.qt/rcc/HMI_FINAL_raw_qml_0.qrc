@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/HMI_FINAL/">
+    <file alias="Constants.qml">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/imports/HMI_FINAL/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

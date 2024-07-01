@@ -1,0 +1,8 @@
+--resource
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/imports/HMI_FINAL/.qt/rcc/qmake_HMI_FINAL.qrc
+--resource
+C:/Users/Pered/OneDrive/Documentos/HMI_FINAL/build/hi-Debug/imports/HMI_FINAL/.qt/rcc/HMI_FINAL_raw_qml_0.qrc
+/qt/qml/HMI_FINAL/Constants.qml
+/qt/qml/HMI_FINAL/DirectoryFontLoader.qml
+/qt/qml/HMI_FINAL/EventListModel.qml
+/qt/qml/HMI_FINAL/EventListSimulator.qml
